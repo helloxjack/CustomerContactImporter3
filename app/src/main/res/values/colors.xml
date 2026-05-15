@@ -1,0 +1,6 @@
+<resources>
+    <color name="brand_primary">#2F6F7E</color>
+    <color name="brand_dark">#1F4E5F</color>
+    <color name="brand_light">#E8F2F5</color>
+    <color name="danger">#C94A4A</color>
+</resources>
